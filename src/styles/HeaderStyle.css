@@ -14,6 +14,11 @@
    color: aliceblue;
 }
 
+.active {
+   color: #FFD700 !important;
+   font-weight: bold;
+}
+
 /* //For mobile */
 
 .navigation-mobile {
